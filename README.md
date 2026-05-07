@@ -84,7 +84,7 @@ Lectura profunda con notas Markdown personales. Cada concepto leído se aplica a
   1. Dashboard estático con datos de tu proyecto SIN (ya tienes los datos).
   2. App con widgets interactivos: file upload + processing en vivo.
   3. App con session state, caching, y multi-page navigation.
-- **Entregable viernes 13:** las 3 apps en GitHub público + 1 deployada en Streamlit Community Cloud (gratis).
+- **Entregable miércoles 13:** las 3 apps en GitHub público + 1 deployada en Streamlit Community Cloud (gratis).
 
 **Semana 2 (14-20 mayo) — FastAPI deep dive**
 - API que sirve un modelo Sklearn pre-entrenado (usa cualquiera de tus modelos TripleTen).
