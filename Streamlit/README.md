@@ -9,14 +9,30 @@
 ```Python
 import streamlit as st
 
+# -------------------------------------------------------------------------
 st.title("Streamlit Progress")
+
 
 st.header("Text Elements")
 
+
 st.subheader("How to create a title")
+
 
 st.markdown("# Header 1")
 
+
+st.text("This is a very basic text")
+
+
+# -------------------------------------------------------------------------
+# used to creage a division line
+st.divider()
+
+
+st.write("This is a multiple purpose method")
+
+# -------------------------------------------------------------------------
 # Generally used for quotes
 st.caption("[Machine learning is the] field of study that gives computers
 the ability to learn without being explicitly programmed.")
@@ -27,19 +43,10 @@ df = pd.read_csv(my_csv_file)
 df.head()""")
 
 
-st.text("This is a very basic text")
-
-
 st.latex("""
 \begin{equation}
     y = \beta_0 + \beta_1 x + \epsilon
 \end{equation}
 """)
-
-
-# used to creage a division line
-st.divider()
-
-
-st.write("This is a multiple purpose method")
+# -------------------------------------------------------------------------
 ```
