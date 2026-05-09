@@ -40,6 +40,7 @@ st.metric(label="Expenses", value=1050, delta=-36, delta_color="inverse")
 st.metric(label="Population", value=12000000, delta=8.5, delta_color="green")
 
 ```
+![Display Elements](./images/06.image.png)
 ---
 
 <br>
@@ -116,5 +117,7 @@ fig.autofmt_xdate()
 st.pyplot(fig)
 # ------------------------------------------------------------------------------------
 ```
+![Image 1 Charting](./images/07.1.image.png)
 
+![Image 2 Charting](./images/07.2.image.png)
 ---
