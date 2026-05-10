@@ -1,9 +1,9 @@
-# STREAMLIT PROGRESS *(Spring 1 - Week 1)*
+# STREAMLIT PROGRESS *(Spring 1 - Day 2)*
 
 <br><br>
 
-## Thursday, May 07, 2026
-1. Today I have learned hot to `display elements`.
+## Friday, May 08, 2026
+1. Today I have learned how to `display elements`.
 ```Python
 import pandas as pd
 import streamlit as st
