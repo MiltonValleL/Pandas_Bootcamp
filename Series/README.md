@@ -1,4 +1,4 @@
-# Series - Masterclass (Matplotlib & Seaborn)
+# Series - Masterclass (Numpy & Pandas Masterclass)
 
 <br>
 
