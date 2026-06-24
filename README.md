@@ -83,10 +83,10 @@
 - [x] Combining multiple DataFrames
 
 ### 🏆 Final Course Project — Maven Mega Mart Full Analysis
-- [ ] Join new data tables
-- [ ] Time series analysis
-- [ ] Workflow optimization
-- [ ] Export final results
+- [x] Join new data tables
+- [x] Time series analysis
+- [x] Workflow optimization
+- [x] Export final results
 
 ---
 
@@ -112,7 +112,7 @@
 | **Notebook** | [`final-project/mega_mart_analysis.ipynb`](./final-project/) |
 | **Dataset** | Full Maven Mega Mart dataset (products, pricing, transactions) |
 | **Skills applied** | Joins · Time series · Aggregation · Visualization · Export |
-| **Status** | ⏳ Pending |
+| **Status** | ✅ done |
 
 ---
 
