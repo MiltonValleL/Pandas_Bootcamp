@@ -69,18 +69,18 @@
 
 ### Module 5 — Analyzing Dates & Times
 - [x] Datetime data type in Pandas
-- [ ] Extracting date components
-- [ ] GroupBy dates · Moving averages · Time intelligence
+- [x] Extracting date components
+- [x] GroupBy dates · Moving averages · Time intelligence
 
 ### Module 6 — Importing & Exporting Data
-- [ ] Reading flat files (CSV, Excel)
-- [ ] Querying SQL tables into DataFrames
-- [ ] Writing data back to source
+- [x] Reading flat files (CSV, Excel)
+- [x] Querying SQL tables into DataFrames
+- [x] Writing data back to source
 
 ### Module 7 — Joining DataFrames
-- [ ] Merge (inner, left, right, outer joins)
-- [ ] Concat (appending rows)
-- [ ] Combining multiple DataFrames
+- [x] Merge (inner, left, right, outer joins)
+- [x] Concat (appending rows)
+- [x] Combining multiple DataFrames
 
 ### 🏆 Final Course Project — Maven Mega Mart Full Analysis
 - [ ] Join new data tables
