@@ -9,7 +9,8 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter_Lab-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Status](https://img.shields.io/badge/Status-In_Progress-yellow?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Mastered-darkgreen?style=flat-square)
+
 
 </div>
 
